@@ -41,7 +41,7 @@
         remote="yocto" />
 
     <!-- software -->
-    <project name="armpelionedge/meta-pelion-edge"
+    <project name="cmonr/meta-pelion-edge"
         path="poky/meta-pelion-edge"
         revision="dev"
         remote="github" />
