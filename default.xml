@@ -40,9 +40,9 @@
         remote="yocto" />
 
     <!-- software -->
-    <project name="armpelionedge/meta-pelion-edge"
+    <project name="cmonr/meta-pelion-edge"
         path="poky/meta-pelion-edge"
-        revision="refs/tags/2.1.0-1"
+        revision="refs/heads/p.pin-pyopenssl"
         remote="github" />
 
     <project name="aaronovz1/meta-nodejs"
